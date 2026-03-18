@@ -119,7 +119,7 @@ MedSafe AI is for **educational and informational purposes only**. It is not a s
 - Ayushi Chouksey (ayushi1330)
 - Ayushi pawar
 - Ayushi patel
-- bharti loadhi
+- bharti lodhi 
 - Team Members
 
 **Milestone 4 — Activity 4.3: Deployment Preparation and Final Validation**
